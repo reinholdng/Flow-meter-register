@@ -1,3 +1,3 @@
-# Flow-meter-register
+# Flow-meter-indicator/recorder
 
-Project to digitalize mechanical flow meters.
+Prototype for digitizing mechanical indicators and recorders used in propeller flowmeters.
