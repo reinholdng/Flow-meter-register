@@ -2,6 +2,11 @@
 
 Prototype for digitizing mechanical indicators and recorders used in propeller flowmeters.
 
+## Main Parts:
+
+* Tiva C (TM4C123GH6PM) Microcontroller evaluation board
+* Omron E6B2-CWZ6C Rotary Encoder (Incremental)
+* LM2596 Switching Regulator
 
 ## ToDo List:
 
