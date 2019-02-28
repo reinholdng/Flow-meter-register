@@ -26,8 +26,7 @@ Prototype for digitizing mechanical indicators and recorders used in propeller f
 - [ ] Measuring the number of encoder turns
 - [ ] Detection of the direction of rotation to avoid "Negative volume" measurement
 - [ ] Regression between number of turns and Total volume from a reference flow meter (Calibration)
-- [ ] Implementation of the EEPROM module for "Total volume" storage
-- [ ] Algorithm to properly save to EEPROM without wearing it out
+- [ ] Implementation of the EEPROM module for "Total volume" storage with wear leveling algorithm
 - [ ] Interrupt handling for EEPROM storage in Brown-out conditions
 
   
