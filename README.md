@@ -14,14 +14,14 @@ Prototype for digitizing mechanical indicators and recorders used in propeller f
 - [x] LM2596 step-down(buck) converter desing to supply power from Battery/Alternator (Irrigation water pump) to the system.
 - [x] Mechanical coupling between Encoder and Propeller mechanism.
   
-  Flow Rate:
+### Flow Rate:
   
 - [x] Averaged encoder RPMs measurement
 - [ ] Detection of the direction of rotation to avoid "Negative flow" measurement
 - [ ] Regression between RPMs and Flow Rate from a reference flow meter (Calibration)
 - [ ] Definition of upper and lower flow rate limits to avoid inaccurate measurements.
 
-Total volume:
+### Total volume:
   
 - [ ] Measuring the number of encoder turns
 - [ ] Detection of the direction of rotation to avoid "Negative volume" measurement
@@ -31,7 +31,7 @@ Total volume:
 - [ ] Interrupt handling for EEPROM storage in Brown-out conditions
 
   
-Low Power (Further Design):
+### Low Power (Further Design):
   
 - [x] Use of PIOSC as low power clock source 
 - [x] Use of control pins for Enabling/disabling LCD and Encoder power input
