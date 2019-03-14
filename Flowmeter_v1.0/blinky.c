@@ -23,9 +23,9 @@
 
 unsigned long timer;
 unsigned long count;
-float time = 0.1;
+//float time = 0.1;
 //float freq;
-float qeiVelocidad; //# of edges/pulses detected in the specified time period
+//float qeiVelocidad; //# of edges/pulses detected in the specified time period
 float velocidad; //Encoder velocity computed in RPM
 float caudal_instantaneo; //Flow rate computed value
 char str[6]; //Char to print flow rate value to LCD
