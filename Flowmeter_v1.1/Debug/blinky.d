@@ -30,6 +30,7 @@ blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/timer.
 blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/ssi.h
 blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/rom.h
 blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/qei.h
+blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/watchdog.h
 blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/inc/hw_sysctl.h
 
 ../blinky.c: 
@@ -62,4 +63,5 @@ blinky.obj: /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/inc/hw_sysctl.h
 /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/ssi.h: 
 /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/rom.h: 
 /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/qei.h: 
+/home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/driverlib/watchdog.h: 
 /home/reinhold/Downloads/SW-EK-TM4C123GXL-2.1.4.178/inc/hw_sysctl.h: 
