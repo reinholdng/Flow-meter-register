@@ -15,7 +15,7 @@ Prototype for digitizing mechanical indicators and recorders used in propeller f
 - [x] LCD 16x2 (HD44780) customized driver
 - [x] QEI configuration and interrupt handling (direction change, index detection and timer expiration)
 - [ ] Brown-out detection to improve reliability
-- [ ] Watchdog module configuration to improve reliability
+- [x] Watchdog module configuration to improve reliability
 - [x] LM2596 step-down(buck) converter desing to supply power from Battery/Alternator (Irrigation water pump) to the system.
 - [x] Mechanical coupling between Encoder and Propeller mechanism.
 - [x] Diode ORing circuit for power backup (SuperCapacitor).
@@ -24,7 +24,7 @@ Prototype for digitizing mechanical indicators and recorders used in propeller f
 ### Flow Rate:
   
 - [x] Averaged encoder RPMs measurement
-- [ ] Detection of the direction of rotation to avoid "Negative flow" measurement
+- [x] Detection of the direction of rotation to avoid "Negative flow" measurement
 - [ ] Regression between RPMs and Flow Rate from a reference flow meter (Calibration)
 - [ ] Definition of upper and lower flow rate limits to avoid inaccurate measurements.
 
